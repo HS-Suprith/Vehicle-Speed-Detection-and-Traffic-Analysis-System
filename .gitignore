@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Database file
+*.db
+*.sqlite3
+
+# Streamlit temp files
+.streamlit/
+
+# IDE files
+.vscode/
+.idea/

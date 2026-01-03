@@ -1,0 +1,7 @@
+python -m venv venv
+venv\Scripts\activate
+pip install opencv-python
+pip install ultralytics
+pip install streamlit
+cd src
+streamlit run app.py
