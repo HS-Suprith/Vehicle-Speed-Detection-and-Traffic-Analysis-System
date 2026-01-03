@@ -8,6 +8,8 @@ __pycache__/
 venv/
 env/
 .env
+fgpt_env/
+node_modules/
 
 # Database file
 *.db
@@ -22,3 +24,4 @@ env/
 
 models/*.pt
 models/*.pth
+
