@@ -23,3 +23,4 @@ node_modules/
 .idea/
 
 models/yolov8s.pt
+models/*.pt
